@@ -1,4 +1,3 @@
 # My website*
 This is a really Awsome website ever
-editting on update -readme branch
-updated locally
+Updates made on master on GitHub before rebase
